@@ -50,10 +50,11 @@ Bot chỉ trả lời khi:
 ## File cấu trúc
 
 - `bot.py` - File chính chứa toàn bộ code
-- `prompt.txt` - System prompt cho bot (có thể chỉnh sửa)
+- `prompt.txt` - System prompt cho bot (có thể chỉnh sửa theo sở thích của bạn)
 - `requirements.txt` - Dependencies
 
 ## Lấy API Keys
 
 - **Discord Bot Token**: https://discord.com/developers/applications
 - **Gemini API Key**: https://makersuite.google.com/app/apikey
+
